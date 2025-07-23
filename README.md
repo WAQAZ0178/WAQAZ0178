@@ -1,11 +1,11 @@
 👋 Hello Folks! I'm Waqas Ahmed 🌟
-Senior React Native Developer | G8ts Technology, Qatar 🇶🇦Originally from Pakistan 🇵🇰 | Passionate Coder & Innovator
+Senior React Native Developer | G8ts Technology, Qatar 🇶🇦 Originally from Pakistan 🇵🇰 | Passionate Coder & Innovator
 
 📢 Connect with Me
 
 📧 Email: waqasahmed0178@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/waqas-ahmed-b70186211 
-🐙 GitHub: github.com/WAQAZ0178 (Update with your profile)  
+🐙 GitHub: https://github.com/WAQAZ0178
 
 
 
