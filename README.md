@@ -4,9 +4,9 @@ Senior React Native Developer | G8ts Technology, Qatar 🇶🇦Originally from P
 📢 Connect with Me
 
 📧 Email: waqasahmed0178@gmail.com  
-🔗 LinkedIn: linkedin.com/in/waqas-ahmed (Update with your profile)  
+🔗 LinkedIn: www.linkedin.com/in/waqas-ahmed-b70186211 
 🐙 GitHub: github.com/WAQAZ0178 (Update with your profile)  
-🐦 Twitter: twitter.com/yourhandle (Update with your profile)
+
 
 
 💼 I Worked on These Projects
@@ -40,7 +40,7 @@ Secure and efficient backend solutions with APIs, databases, and server manageme
 🛠️ Skills & Services
 Mobile App Development
 
-🌱 Android Development  
+🌱 Android IOS Development  
 ⚛️ React Native Development  
 🎨 Creating UI/Animations  
 🔔 Push Notifications Integration  
@@ -66,9 +66,7 @@ Version Control
 
 🛠️ Git Version Control
 
-Content Creation
 
-📹 YouTube Content Creation
 
 Languages & Tools
 
@@ -76,14 +74,14 @@ Languages & Tools
 📝 TypeScript Language  
 🎨 UI/UX Design  
 🧪 Testing & Debugging Tools  
-🌉 Cross Platform (Flutter/Kotlin)
+🌉 Cross Platform (React Native)
 
 
 📩 Contact for Freelancing Services
 Get in touch with us:  
 
-📩 [Email] Contact  
-💬 [WhatsApp] Message  
+📩 [Email] Waqasahmed0178@gmail.com  
+💬 [WhatsApp] +97451016730  
 💌 [Message] MESSAGE
 
 We'll respond as quickly as possible! ⏳  
