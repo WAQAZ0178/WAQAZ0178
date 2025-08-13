@@ -12,9 +12,9 @@
 ### 🔥 GitHub Stats
 ![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WAQAZ0178&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WAQAZ0178&theme=radical&hide_border=false)
 
