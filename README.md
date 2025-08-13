@@ -17,7 +17,7 @@
 ![Waqas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAQAZ0178&theme=react-dark&hide_border=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=donut&theme=radical&count_private=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=compact&theme=radical&count_private=true&langs_count=8&card_width=800)
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
