@@ -32,10 +32,10 @@
 
 ### 📊 Weekly Development Breakdown
 ```text
-TypeScript   632 hrs 53 mins  ████████████████████▓░░░░   82.5%
-JavaScript    96 hrs 59 mins  ████▒░░░░░░░░░░░░░░░░░░░░   12.6%
-JSON          48 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░    6.4%
-Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    1.0%
+JavaScript  632 hrs 53 mins  ████████████████████▓░░░░   82.5%
+TypeScript  120 hrs 59 mins  ███████▓▒░░░░░░░░░░░░░░░░   18.6%
+JSON         48 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░    6.4%
+Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    1.0%
 ```
 
 </div>
@@ -60,20 +60,22 @@ Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░�
 ### 🛒 E-Commerce Mobile App
 > A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).
 
-**Tech Stack:** React Native • Tailwind CSS • Node.js • MongoDB • AWS  
-**Impact:** 📈 10,000+ downloads in 3 months!
+**Tech Stack:** React Native • Tailwind CSS  • Firebase • Redux  
+**Impact:** 📈 10,000)+ downloads  increase the sales up to 100% and boost the app performance!
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
+[![Android](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en)
+[![IOS](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)
 
 ---
 
-### 💬 Social Connect App
-> A vibrant social platform with real-time chat and push notifications.
+### 💰 Pakistan No#1 Trading App
 
-**Tech Stack:** React Native • Firebase • Node.js • MongoDB  
-**Impact:** 😊 Boosted user retention by 25%!
+> A comprehensive trading platform with real-time market data, portfolio management, and secure transactions.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
+**Tech Stack:** React Native • Firebase • Node.js • MongoDB
+**Impact:** 📈 Achieved #1 ranking in Pakistan's finance app category!
+[![Android](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en)
+[![IOS](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)
 
 ---
 
@@ -83,7 +85,6 @@ Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░�
 **Tech Stack:** React Native • TypeScript • MongoDB  
 **Impact:** 💼 Streamlined workflows for 5,000+ users
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
 
 ---
 
@@ -113,6 +114,7 @@ Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░�
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -142,17 +144,7 @@ Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░�
 
 ---
 
-## 📊 Profile Analytics
 
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=WAQAZ0178&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 💝 Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waqasahmed)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/waqasahmed0178)
-
-</div>
 
 ---
 
