@@ -1,90 +1,185 @@
-👋 Hello Folks! I'm Waqas Ahmed 🌟
-Senior React Native Developer | G8ts Technology, Qatar 🇶🇦 Originally from Pakistan 🇵🇰 | Passionate Coder & Innovator
+# 👋 Hello Folks! I'm Waqas Ahmed 🌟
 
-📢 Connect with Me
+**Senior React Native Developer | G8ts Technology, Qatar 🇶🇦**  
+**Originally from Pakistan 🇵🇰 | Passionate Coder & Innovator**
 
-📧 Email: waqasahmed0178@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/waqas-ahmed-b70186211 
-🐙 GitHub: https://github.com/WAQAZ0178
+---
 
+## 📊 GitHub Statistics
 
+<div align="center">
+  
+### 🔥 GitHub Stats
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-💼 I Worked on These Projects
-🛒 E-Commerce Mobile App
-A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).  
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WAQAZ0178&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Tech: React Native, Tailwind CSS, Node.js, MongoDB, AWS  
-Impact: 10,000+ downloads in 3 months! 📈
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=WAQAZ0178&theme=radical&hide_border=false)
 
-💬 Social Connect App
-A vibrant social platform with real-time chat and push notifications.  
+### 📈 Activity Graph
+![Waqas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAQAZ0178&theme=react-dark&hide_border=true)
 
-Tech: React Native, Firebase, Node.js, MongoDB  
-Impact: Boosted user retention by 25%! 😊
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=donut&theme=radical&count_private=true&langs_count=8)
 
-✅ Productivity Pro App
-A task management app with offline support and iCloud sync.  
+### ⏱️ WakaTime Stats
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2053%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1247-blue)
+<!--END_SECTION:waka-->
 
-Tech: React Native, TypeScript, MongoDB  
-Impact: Streamlined workflows for 5,000+ users. 💼
+### 📊 Weekly Development Breakdown
+```text
+TypeScript   632 hrs 53 mins  ████████████████████▓░░░░   82.5%
+JavaScript    96 hrs 59 mins  ████▒░░░░░░░░░░░░░░░░░░░░   12.6%
+JSON          48 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░    6.4%
+Other         77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    1.0%
+```
 
+</div>
 
-🚀 Services
-📱 Mobile App Development
-Create robust and scalable mobile applications tailored to your needs. Expertise in Android, iOS, and cross-platform frameworks like React Native and Flutter.  
-🌐 Website Development
-Deliver modern, responsive, and SEO-friendly websites to enhance your online presence. Built with technologies like HTML, CSS, JavaScript, React.js, Next.js, and more.  
-⚙️ Backend Development
-Secure and efficient backend solutions with APIs, databases, and server management using Node.js, Express, MongoDB, and other technologies.  
+---
 
-🛠️ Skills & Services
-Mobile App Development
+## 📢 Connect with Me
 
-🌱 Android IOS Development  
-⚛️ React Native Development  
-🎨 Creating UI/Animations  
-🔔 Push Notifications Integration  
-🗺️ Maps Integration / Location Services  
-🗃️ SQLite Database
+<div align="center">
 
-Web Development
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasahmed0178@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-ahmed-b70186211)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WAQAZ0178)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/97451016730)
 
-🌐 MERN Stack Development  
-🔄 Redux State Management
+</div>
 
-Cloud & Backend
+---
 
-☁️ Firebase Backend Services  
-🔗 API Development (RESTful)  
-📊 GraphQL Development
+## 💼 Featured Projects
 
-Project Management
+### 🛒 E-Commerce Mobile App
+> A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).
 
-📅 JIRA Project Management
+**Tech Stack:** React Native • Tailwind CSS • Node.js • MongoDB • AWS  
+**Impact:** 📈 10,000+ downloads in 3 months!
 
-Version Control
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
 
-🛠️ Git Version Control
+---
 
+### 💬 Social Connect App
+> A vibrant social platform with real-time chat and push notifications.
 
+**Tech Stack:** React Native • Firebase • Node.js • MongoDB  
+**Impact:** 😊 Boosted user retention by 25%!
 
-Languages & Tools
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
 
-🌐 JavaScript Language  
-📝 TypeScript Language  
-🎨 UI/UX Design  
-🧪 Testing & Debugging Tools  
-🌉 Cross Platform (React Native)
+---
 
+### ✅ Productivity Pro App
+> A task management app with offline support and iCloud sync.
 
-📩 Contact for Freelancing Services
-Get in touch with us:  
+**Tech Stack:** React Native • TypeScript • MongoDB  
+**Impact:** 💼 Streamlined workflows for 5,000+ users
 
-📩 [Email] Waqasahmed0178@gmail.com  
-💬 [WhatsApp] +97451016730  
-💌 [Message] MESSAGE
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/WAQAZ0178)
 
-We'll respond as quickly as possible! ⏳  
+---
 
+## 🚀 Services
 
-“Turning ideas into code, one masterpiece at a time! 💻”
+<div align="center">
+
+| 📱 Mobile Development | 🌐 Web Development | ⚙️ Backend Development |
+|:--------------------:|:------------------:|:----------------------:|
+| Android & iOS Apps | Responsive Websites | Secure APIs & Databases |
+| React Native & Flutter | React.js & Next.js | Node.js & MongoDB |
+| Cross-platform Solutions | SEO-friendly Design | Server Management |
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌐 Frontend Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Snake animation](https://github.com/WAQAZ0178/WAQAZ0178/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📊 Profile Analytics
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=WAQAZ0178&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💝 Support My Work
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waqasahmed)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/waqasahmed0178)
+
+</div>
+
+---
+
+## 📩 Contact for Freelancing Services
+
+<div align="center">
+
+> **"Turning ideas into code, one masterpiece at a time! 💻"**
+
+### Get in touch with me:
+
+📧 **Email:** [waqasahmed0178@gmail.com](mailto:waqasahmed0178@gmail.com)  
+💬 **WhatsApp:** [+974 5101 6730](https://wa.me/97451016730)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/waqas-ahmed-b70186211)
+
+**⏳ I'll respond as quickly as possible!**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 Let's build something amazing together!
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+**Made with ❤️ and lots of ☕**
+
+</div>
