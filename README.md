@@ -9,19 +9,9 @@
 
 <div align="center">
   
-### 🔥 GitHub Stats
-![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-<!--### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WAQAZ0178&theme=radical&no-frame=false&no-bg=false&margin-w=4)
--->
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=WAQAZ0178&theme=radical&hide_border=false)
-
-<div align="center">
+### 🔥 GitHub Stats & Streak
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://streak-stats.demolab.com/?user=WAQAZ0178&theme=radical&hide_border=false"/>
-</div>
 
 ### 📈 Activity Graph
 ![Waqas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAQAZ0178&theme=react-dark&hide_border=true)
@@ -66,10 +56,10 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 > A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).
 
 **Tech Stack:** React Native • Tailwind CSS  • Firebase • Redux  
-**Impact:** 📈 10,000)+ downloads  increase the sales up to 100% and boost the app performance!
+**Impact:** 📈 10,000+ downloads  increase the sales up to 100% and boost the app performance!
 
-[![Android](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en)
-[![IOS](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)
 
 ---
 
@@ -77,10 +67,11 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 
 > A comprehensive trading platform with real-time market data, portfolio management, and secure transactions.
 
-**Tech Stack:** React Native • Firebase • Node.js • MongoDB
+**Tech Stack:** React Native • Firebase • Node.js • MongoDB  
 **Impact:** 📈 Achieved #1 ranking in Pakistan's finance app category!
-[![Android](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en)
-[![IOS](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)
 
 ---
 
@@ -89,7 +80,6 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 
 **Tech Stack:** React Native • TypeScript • MongoDB  
 **Impact:** 💼 Streamlined workflows for 5,000+ users
-
 
 ---
 
@@ -146,10 +136,6 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 ![Snake animation](https://github.com/WAQAZ0178/WAQAZ0178/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-
 
 ---
 
