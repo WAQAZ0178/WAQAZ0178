@@ -2,8 +2,8 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    # Test: runs every 10 minutes for immediate testing
-    - cron: '*/10 * * * *'
+    # Runs daily at 8:00 AM Qatar time (5:00 AM UTC) - Qatar is UTC+3
+    - cron: '0 5 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
