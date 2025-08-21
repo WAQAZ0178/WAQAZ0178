@@ -2,8 +2,8 @@ name: Daily Auto Commit
 
 on:
   schedule:
-    # Test: runs every 5 minutes (remove this after testing)
-    - cron: '*/5 * * * *'
+    # Test: runs at 4:40 PM Qatar time (13:40 UTC) - Qatar is UTC+3
+    - cron: '40 13 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -27,19 +27,12 @@ jobs:
         echo "" >> README.md
         echo "<!-- Auto-generated comment: $(date '+%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
         
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git add README.md
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
           git commit -m "Daily auto-commit: $(date '+%Y-%m-%d')"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
