@@ -19,20 +19,21 @@ jobs:
         
     - name: Configure Git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "waqasahmed0178@gmail.com"
+        git config --local user.name "WAQAZ0178"
         
-    - name: Update README with daily comment
+    - name: Update activity log
       run: |
         echo "" >> README.md
         echo "<!-- Auto-generated comment: $(date '+%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
+        echo "$(date '+%Y-%m-%d %H:%M:%S UTC') - Daily activity commit" >> .github/daily-activity.log
         
     - name: Commit and push changes
       run: |
-        git add README.md
+        git add README.md .github/daily-activity.log
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Daily auto-commit: $(date '+%Y-%m-%d')"
+          git commit -m "Daily auto-commit: $(date '+%Y-%m-%d')" --author="WAQAZ0178 <waqasahmed0178@gmail.com>"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         fi
