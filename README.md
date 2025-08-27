@@ -56,7 +56,7 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 > A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).
 
 **Tech Stack:** React Native • Tailwind CSS  • Firebase • Redux  
-**Impact:** 📈 10,000+ downloads  increase the sales up to 100% and boost the app performance!
+**Impact:** 📈 10,0000+ downloads  increase the sales up to 100% and boost the app performance!
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)
