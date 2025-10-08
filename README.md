@@ -166,8 +166,3 @@ Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░
 **Made with ❤️ and lots of ☕**
 
 </div>
-
-
-
-
-
