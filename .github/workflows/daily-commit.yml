@@ -1,56 +1,56 @@
-# name: Daily Random Commits
-# on:
-#   schedule:
-#     # Runs daily at 8:00 AM Qatar time (5:00 AM UTC) - Qatar is UTC+3
-#     - cron: '0 5 * * *'
-#   workflow_dispatch: # Allows manual trigger
+name: Daily Random Commits
+on:
+  schedule:
+    # Runs daily at 8:00 AM Qatar time (5:00 AM UTC) - Qatar is UTC+3
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows manual trigger
 
-# jobs:
-#   auto-commit:
-#     runs-on: ubuntu-latest
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
     
-#     steps:
-#     - name: Checkout repository
-#       uses: actions/checkout@v4
-#       with:
-#         token: ${{ secrets.GITHUB_TOKEN }}
-#         persist-credentials: true
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
         
-#     - name: Configure Git
-#       run: |
-#         git config --local user.email "waqasahmed0178@gmail.com"
-#         git config --local user.name "WAQAZ0178"
+    - name: Configure Git
+      run: |
+        git config --local user.email "waqasahmed0178@gmail.com"
+        git config --local user.name "WAQAZ0178"
         
-#     - name: Make random commits
-#       run: |
-#         # Generate a random number between 1 and 5
-#         NUM_COMMITS=$((RANDOM % 5 + 1))
-#         echo "Making $NUM_COMMITS commits today"
+    - name: Make random commits
+      run: |
+        # Generate a random number between 1 and 5
+        NUM_COMMITS=$((RANDOM % 5 + 1))
+        echo "Making $NUM_COMMITS commits today"
         
-#         # Create activity log file if it doesn't exist
-#         mkdir -p .github
-#         touch .github/daily-activity.log
+        # Create activity log file if it doesn't exist
+        mkdir -p .github
+        touch .github/daily-activity.log
         
-#         # Make the random number of commits
-#         for i in $(seq 1 $NUM_COMMITS); do
-#           # Add timestamp and random activity message
-#           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S UTC')
-#           ACTIVITY_MSG="Activity update #$i"
+        # Make the random number of commits
+        for i in $(seq 1 $NUM_COMMITS); do
+          # Add timestamp and random activity message
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S UTC')
+          ACTIVITY_MSG="Activity update #$i"
           
-#           echo "" >> README.md
-#           echo "<!-- Auto-generated: $TIMESTAMP - $ACTIVITY_MSG -->" >> README.md
-#           echo "$TIMESTAMP - $ACTIVITY_MSG" >> .github/daily-activity.log
+          echo "" >> README.md
+          echo "<!-- Auto-generated: $TIMESTAMP - $ACTIVITY_MSG -->" >> README.md
+          echo "$TIMESTAMP - $ACTIVITY_MSG" >> .github/daily-activity.log
           
-#           # Commit the changes
-#           git add README.md .github/daily-activity.log
-#           git commit -m "Daily activity commit #$i: $(date '+%Y-%m-%d %H:%M')" --author="WAQAZ0178 <waqasahmed0178@gmail.com>"
+          # Commit the changes
+          git add README.md .github/daily-activity.log
+          git commit -m "Daily activity commit #$i: $(date '+%Y-%m-%d %H:%M')" --author="WAQAZ0178 <waqasahmed0178@gmail.com>"
           
-#           # Random delay between commits (5-30 seconds) to make it look natural
-#           if [ $i -lt $NUM_COMMITS ]; then
-#             sleep $((RANDOM % 26 + 5))
-#           fi
-#         done
+          # Random delay between commits (5-30 seconds) to make it look natural
+          if [ $i -lt $NUM_COMMITS ]; then
+            sleep $((RANDOM % 26 + 5))
+          fi
+        done
         
-#     - name: Push all commits
-#       run: |
-#         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+    - name: Push all commits
+      run: |
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
