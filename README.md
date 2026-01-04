@@ -19,7 +19,7 @@
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=compact&theme=radical&count_private=true&langs_count=8&card_width=800)
 
-### ⏱️ WakaTime Stats
+### ⏱️ Waqas Time Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2053%20mins-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1247-blue)
