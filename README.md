@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=170&section=header&text=Waqas%20Ahmed&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20React%20Native%20Developer&descAlignY=58&descSize=18" width="100%" alt="Waqas Ahmed header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=170&section=header&text=Waqas%20Ahmed&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Waqas Ahmed header"/>
 
-**Building cross-platform mobile apps that ship to millions of screens.**
-Doha, Qatar 🇶🇦 · Originally from Pakistan 🇵🇰 · 7+ years in mobile
+**Building web and mobile products, from the React front end to the Node.js back end.**
+Doha, Qatar 🇶🇦 · Originally from Pakistan 🇵🇰 · 7+ years in software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-ahmed-b70186211)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasahmed0178@gmail.com)
@@ -15,12 +15,12 @@ Doha, Qatar 🇶🇦 · Originally from Pakistan 🇵🇰 · 7+ years in mobile
 
 ## 👨‍💻 About
 
-I'm a Senior React Native developer at **G8ts Technology** in Doha. I work across the whole mobile delivery chain: app features, CI/CD, Firebase setup, and automated App Store / Google Play publishing.
+I'm a Senior Full Stack developer at **G8ts Technology** in Doha. I work with **React, Next.js, Node.js, React Native, Android and iOS**, and I cover the whole delivery chain: front end, APIs, mobile apps, CI/CD, Firebase setup, and automated App Store / Google Play publishing.
 
 - 🏗️ Building and maintaining a **white-label app platform** for fitness, wellness and hotel clients, plus G8ts's own in-house app
 - ⚙️ Automating builds and store submissions with **EAS, Fastlane and GitHub Actions**
 - 🔄 Previously migrated a fintech app from two native codebases into **one React Native app**
-- 💼 Open for freelance work: mobile apps, websites and backend APIs
+- 💼 Open for freelance work: websites, web apps, mobile apps and backend APIs
 
 ---
 
@@ -28,13 +28,22 @@ I'm a Senior React Native developer at **G8ts Technology** in Doha. I work acros
 
 | Project | What I did | Results |
 |:--|:--|:--|
-| **[Ansar Gallery](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)**<br/>Fashion e-commerce · [Google Play](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en) | Senior RN developer. Performance tuning, payments (Apple Pay / Google Pay), real-time inventory | ~80% faster app · 100K+ downloads · 100K+ orders |
-| **[Zar by Sarmaaya](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)**<br/>Fintech / trading · [Google Play](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en) | Replaced separate native Android and iOS apps with a single React Native codebase | 50K+ investors · rating 3.2 → 4.0 |
-| **G8ts White-Label Platform**<br/>Fitness · Wellness · Hotels | Config-driven apps per client, with automated store submission pipeline for iOS and Android | One codebase, many branded apps |
+| **Ansar Gallery**<br/>Fashion e-commerce<br/>[🤖 Android](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en) · [🍎 iOS](https://apps.apple.com/qa/app/ansar-gallery/id1564070778) | Senior RN developer. Performance tuning, payments (Apple Pay / Google Pay), real-time inventory | ~80% faster app · 100K+ downloads · 100K+ orders |
+| **Zar by Sarmaaya**<br/>Fintech / trading<br/>[🤖 Android](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en) · [🍎 iOS](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724) | Replaced separate native Android and iOS apps with a single React Native codebase | 50K+ investors · rating 3.2 → 4.0 |
+| **G8ts App**<br/>White-label platform for fitness, wellness &amp; hotels<br/>[🤖 Android](G8TS_ANDROID_LINK_HERE) · [🍎 iOS](G8TS_IOS_LINK_HERE) | Config-driven apps per client, with automated store submission pipeline for iOS and Android | One codebase, many branded apps |
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Mobile**
 
@@ -45,15 +54,6 @@ I'm a Senior React Native developer at **G8ts Technology** in Doha. I work acros
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cloud & DevOps**
 
