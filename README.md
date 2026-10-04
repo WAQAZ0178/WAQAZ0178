@@ -30,7 +30,7 @@ I'm a Senior Full Stack developer at **G8ts Technology** in Doha. I work with **
 |:--|:--|:--|
 | **Ansar Gallery**<br/>Fashion e-commerce<br/>[🤖 Android](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en) · [🍎 iOS](https://apps.apple.com/qa/app/ansar-gallery/id1564070778) | Senior RN developer. Performance tuning, payments (Apple Pay / Google Pay), real-time inventory | ~80% faster app · 100K+ downloads · 100K+ orders |
 | **Zar by Sarmaaya**<br/>Fintech / trading<br/>[🤖 Android](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en) · [🍎 iOS](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724) | Replaced separate native Android and iOS apps with a single React Native codebase | 50K+ investors · rating 3.2 → 4.0 |
-| **G8ts App**<br/>White-label platform for fitness, wellness &amp; hotels<br/>[🤖 Android](G8TS_ANDROID_LINK_HERE) · [🍎 iOS](G8TS_IOS_LINK_HERE) | Config-driven apps per client, with automated store submission pipeline for iOS and Android | One codebase, many branded apps |
+| **G8ts App**<br/>White-label platform for fitness, wellness &amp; hotels<br/>[🤖 Android](https://play.google.com/store/apps/details?id=com.g8ts.android.app) · [🍎 iOS](https://apps.apple.com/qa/app/g8ts/id1064454731) | Config-driven apps per client, with automated store submission pipeline for iOS and Android | One codebase, many branded apps |
 
 ---
 
