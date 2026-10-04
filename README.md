@@ -1,392 +1,86 @@
-# 👋 Hello Folks! I'm Waqas Ahmed 🌟
-
-**Senior React Native Developer | G8ts Technology, Qatar 🇶🇦**  
-**Originally from Pakistan 🇵🇰 | Passionate Coder & Innovator**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-### 🔥 GitHub Stats & Streak
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=WAQAZ0178&theme=radical&hide_border=false"/>
-
-### 📈 Activity Graph
-![Waqas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAQAZ0178&theme=react-dark&hide_border=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=compact&theme=radical&count_private=true&langs_count=8&card_width=800)
-
-### ⏱️ Waqas Time Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2053%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1247-blue)
-<!--END_SECTION:waka-->
-
-### 📊 Weekly Development Breakdown
-```text
-JavaScript  632 hrs 53 mins  ████████████████████▓░░░░   82.5%
-TypeScript  120 hrs 59 mins  ███████▓▒░░░░░░░░░░░░░░░░   18.6%
-JSON         48 hrs 51 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░    6.4%
-Other        77 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░    1.0%
-```
-
-</div>
-
----
-
-## 📢 Connect with Me
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasahmed0178@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-ahmed-b70186211)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WAQAZ0178)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=170&section=header&text=Waqas%20Ahmed&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20React%20Native%20Developer&descAlignY=58&descSize=18" width="100%" alt="Waqas Ahmed header"/>
+
+**Building cross-platform mobile apps that ship to millions of screens.**
+Doha, Qatar 🇶🇦 · Originally from Pakistan 🇵🇰 · 7+ years in mobile
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-ahmed-b70186211)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasahmed0178@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/97451016730)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 👨‍💻 About
 
-### 🛒 E-Commerce Mobile App
-> A sleek cross-platform app for a fashion brand, featuring real-time inventory and secure payments (Apple Pay, Google Pay).
+I'm a Senior React Native developer at **G8ts Technology** in Doha. I work across the whole mobile delivery chain: app features, CI/CD, Firebase setup, and automated App Store / Google Play publishing.
 
-**Tech Stack:** React Native • Tailwind CSS  • Firebase • Redux  
-**Impact:** 📈 10,0000+ downloads  increase the sales up to 100% and boost the app performance!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)
+- 🏗️ Building and maintaining a **white-label app platform** for fitness, wellness and hotel clients, plus G8ts's own in-house app
+- ⚙️ Automating builds and store submissions with **EAS, Fastlane and GitHub Actions**
+- 🔄 Previously migrated a fintech app from two native codebases into **one React Native app**
+- 💼 Open for freelance work: mobile apps, websites and backend APIs
 
 ---
 
-### 💰 Pakistan No#1 Trading App
+## 🚀 Selected Work
 
-> A comprehensive trading platform with real-time market data, portfolio management, and secure transactions.
-
-**Tech Stack:** React Native • Firebase • Node.js • MongoDB  
-**Impact:** 📈 Achieved #1 ranking in Pakistan's finance app category!
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)
+| Project | What I did | Results |
+|:--|:--|:--|
+| **[Ansar Gallery](https://apps.apple.com/qa/app/ansar-gallery/id1564070778)**<br/>Fashion e-commerce · [Google Play](https://play.google.com/store/apps/details?id=com.ahmarkets.ecom&hl=en) | Senior RN developer. Performance tuning, payments (Apple Pay / Google Pay), real-time inventory | ~80% faster app · 100K+ downloads · 100K+ orders |
+| **[Zar by Sarmaaya](https://apps.apple.com/pk/app/zar-by-sarmaaya/id6480111724)**<br/>Fintech / trading · [Google Play](https://play.google.com/store/apps/details?id=pk.sarmaaya.zar&hl=en) | Replaced separate native Android and iOS apps with a single React Native codebase | 50K+ investors · rating 3.2 → 4.0 |
+| **G8ts White-Label Platform**<br/>Fitness · Wellness · Hotels | Config-driven apps per client, with automated store submission pipeline for iOS and Android | One codebase, many branded apps |
 
 ---
 
-### ✅ Productivity Pro App
-> A task management app with offline support and iCloud sync.
+## 🛠️ Tech Stack
 
-**Tech Stack:** React Native • TypeScript • MongoDB  
-**Impact:** 💼 Streamlined workflows for 5,000+ users
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Services
+## 📈 GitHub Activity
 
 <div align="center">
 
-| 📱 Mobile Development | 🌐 Web Development | ⚙️ Backend Development |
-|:--------------------:|:------------------:|:----------------------:|
-| Android & iOS Apps | Responsive Websites | Secure APIs & Databases |
-| React Native & Flutter | React.js & Next.js | Node.js & MongoDB |
-| Cross-platform Solutions | SEO-friendly Design | Server Management |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WAQAZ0178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAQAZ0178&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+<img src="https://raw.githubusercontent.com/WAQAZ0178/WAQAZ0178/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🤝 Work With Me
 
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+I take on freelance projects in **mobile apps, websites and APIs**. If you have an idea, send me a short brief and I'll reply with a plan and timeline.
 
-### 🌐 Frontend Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/WAQAZ0178/WAQAZ0178/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📩 Contact for Freelancing Services
-
-<div align="center">
-
-> **"Turning ideas into code, one masterpiece at a time! 💻"**
-
-### Get in touch with me:
-
-📧 **Email:** [waqasahmed0178@gmail.com](mailto:waqasahmed0178@gmail.com)  
-💬 **WhatsApp:** [+974 5101 6730](https://wa.me/97451016730)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/waqas-ahmed-b70186211)
-
-**⏳ I'll respond as quickly as possible!**
-
-</div>
-
----
-
-<div align="center">
-  
-### 🎯 Let's build something amazing together!
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-**Made with ❤️ and lots of ☕**
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Auto-generated comment: 2025-10-27 05:23:27 UTC -->
-
-<!-- Auto-generated comment: 2025-10-28 05:22:36 UTC -->
-
-<!-- Auto-generated: 2025-10-28 06:26:10 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-10-28 06:26:16 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-10-28 06:26:25 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-10-28 06:26:55 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-10-28 06:27:25 UTC - Activity update #5 -->
-
-<!-- Auto-generated: 2025-10-29 05:23:19 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-10-29 05:23:32 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-10-30 05:22:02 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-10-30 05:22:27 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-10-30 05:22:54 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-10-30 05:23:02 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-10-30 05:23:24 UTC - Activity update #5 -->
-
-<!-- Auto-generated: 2025-10-31 05:22:54 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-11-01 05:20:21 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-11-01 05:20:39 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-11-01 05:21:03 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-11-01 05:21:23 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-11-02 05:20:58 UTC - Activity update #1 -->
-
-
-
-<!-- Auto-generated: 2025-11-04 05:22:35 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-11-04 05:22:59 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-11-04 05:23:27 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-11-04 05:23:53 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-11-04 05:24:19 UTC - Activity update #5 -->
-
-<!-- Auto-generated: 2025-11-05 05:22:51 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-11-05 05:23:08 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-11-05 05:23:35 UTC - Activity update #3 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Auto-generated: 2025-12-18 05:27:14 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-19 05:26:38 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-19 05:26:49 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-19 05:26:54 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-12-20 05:24:52 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-20 05:25:13 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-20 05:25:34 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-12-21 05:24:59 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-22 05:28:20 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-22 05:28:29 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-22 05:28:59 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-12-22 05:29:23 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-12-23 05:28:29 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-24 05:28:21 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-25 05:28:13 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-25 05:28:28 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-25 05:28:47 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-12-25 05:29:05 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-12-25 05:29:14 UTC - Activity update #5 -->
-
-<!-- Auto-generated: 2025-12-26 05:26:44 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-27 05:25:19 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-27 05:25:28 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-28 05:28:41 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-28 05:28:53 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-29 05:32:55 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-29 05:33:13 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-30 05:27:45 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2025-12-30 05:28:07 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2025-12-30 05:28:14 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2025-12-30 05:28:34 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2025-12-31 05:29:05 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-01 05:31:26 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-01 05:31:34 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-02 05:30:01 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-02 05:30:31 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-03 05:26:00 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-03 05:26:08 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-03 05:26:17 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2026-01-03 05:26:37 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2026-01-04 05:29:48 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-04 05:30:13 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-04 05:30:34 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2026-01-04 05:30:44 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2026-01-05 05:37:39 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-09 05:30:01 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-10 05:26:06 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-10 05:26:21 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-11 05:29:13 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-11 05:29:42 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-11 05:30:00 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2026-01-12 05:33:48 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-12 05:33:57 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-12 05:34:22 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2026-01-13 05:29:44 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-13 05:30:14 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-13 05:30:23 UTC - Activity update #3 -->
-
-<!-- Auto-generated: 2026-01-13 05:30:43 UTC - Activity update #4 -->
-
-<!-- Auto-generated: 2026-01-14 05:29:12 UTC - Activity update #1 -->
-
-<!-- Auto-generated: 2026-01-14 05:29:42 UTC - Activity update #2 -->
-
-<!-- Auto-generated: 2026-01-14 05:29:49 UTC - Activity update #3 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📧 [waqasahmed0178@gmail.com](mailto:waqasahmed0178@gmail.com) · 💬 [WhatsApp](https://wa.me/97451016730) · 💼 [LinkedIn](https://www.linkedin.com/in/waqas-ahmed-b70186211)
